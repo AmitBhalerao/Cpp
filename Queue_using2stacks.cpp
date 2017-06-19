@@ -1,6 +1,5 @@
 /*
 Implementing Queue using 2 stacks
-
 */
 #include <cmath>
 #include <cstdio>
